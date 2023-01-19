@@ -18,6 +18,10 @@ To provide proper attribution, according to the CC-BY-SA 4.0 license, you must p
 
 Consistent with the CC-BY-SA 4.0 license, I provide this database as-is and as-available, and make no representations or warranties of any kind concerning the database, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. 
 
+## Data source
+
+The data in the Fjelstul English Football Database is coded based on information from Wikipedia. Some of this information is cross-referenced with other sources, including official sources, to confirm the accuracy of the data.
+
 ## Data notes
 
 - **Cross-validation.** I collected the data for the `matches` dataset separately from the data for the `standings` dataset (i.e., the `standings` table is not calculated based on the `matches` dataset). This allowed me to cross-reference the `matches` and `standings` datasets to make sure that the sum of all points earned by each team in each season, based on match result data in the `matches` dataset, equals the team's end-of-the-season point total in the `standings` dataset, accounting for (a) point adjustments due to deductions and forfeits and (b) matches that were expunged due to teams resigning from the league or being expelled from the league. I also confirm the `goals_for` and `goals_against` variables in the `standings` dataset.
@@ -47,7 +51,7 @@ The `BibTeX` entry for the database is:
 }
 ```
 
-If you access the database via the `englishfotoball` package, please also cite the package:
+If you access the database via the `englishfootball` package, please also cite the package:
 
 > Joshua C. Fjelstul (2023). worldcup: The Fjelstul English Football Database. R package version 0.1.0.
 
