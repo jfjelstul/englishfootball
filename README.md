@@ -4,6 +4,12 @@ The Fjelstul English Football Database is a comprehensive database of football m
 
 The database contains `5` datasets: `seasons`, `teams`, `matches`, `appearances` (one observation per team per match), and `standings` (end-of-the-season league tables). The `matches` dataset includes `203956` matches.
 
+## Downloading the data
+
+The Fjelstul English Football Database is available via the `R` package `englishfootball`, which you can install from this repository (instructions below). Note that this repository is structured as a repository for an `R` package. You can also download the database directly from this repository in `3` formats: an `.RData` version of the database is available in the `data/` folder, a `.csv` version is available in the `data-csv/` folder, a `.json` version is available in the `data-json/` folder, and a relational database version (`SQLite`) is available in the `data-sqlite/` folder.
+
+The `.Rdata`, `.csv`, and `.json` versions of the database are all identical except for the file format. These versions of the database are not technically relational because some tables already include variables that have been merged in from other tables for convenience (i.e., some data exists in multiple tables). The `SQLite` version includes all of the same variables, but variables from other tables are not already merged in. Dummy variables that are coded `0` or `1` are converted to `FALSE` and `TRUE`. Users can use the primary and foreign keys in the tables to merge in data from other tables. See the `SQL-schema.txt` file in the `data-sqlite/` folder for more details.
+
 ## Downloading the codebook
 
 The codebook for the database is available in `.pdf` format in the `codebook/pdf/` folder. The codebook is also available in `.csv` format in the `codebook/csv/` folder. There are `2` files: `datasets.csv`, which describes the contents of each dataset, and `variables.csv`, which describes each variable. 
@@ -27,6 +33,8 @@ The data in the Fjelstul English Football Database is coded based on information
 ## Data notes
 
 - **Cross-validation.** I collected the data for the `matches` dataset separately from the data for the `standings` dataset (i.e., the `standings` table is not calculated based on the `matches` dataset). This allowed me to cross-reference the `matches` and `standings` datasets to make sure that the sum of all points earned by each team in each season, based on match result data in the `matches` dataset, equals the team's end-of-the-season point total in the `standings` dataset, accounting for (a) point adjustments due to deductions and forfeits and (b) matches that were expunged due to teams resigning from the league or being expelled from the league. I also confirm the `goals_for` and `goals_against` variables in the `standings` dataset.
+
+- **Point adjustments.** The `point_adjustment` variable in the `standings` table indicates all adjustments to end-of-the-season point totals due to deductions and forfeits. There are `55` point deductions and one instance of a team being awarded points because their opponent forfeited (Scunthorpe United in the 1973-74 season). Point deductions range from `1` point to `21` points (Derby Country in the 2021-22 season). 
 
 ## Installing the R package
 
