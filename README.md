@@ -1,6 +1,6 @@
 # The Fjelstul English Football Database
 
-The Fjelstul English Football Database is a comprehensive database of football matches played in the Premier League and the English Football League from the 1888-89 inaugural season of the Football League through through the 2021-22 season. The database was created by Joshua C. Fjelstul, Ph.D. The database includes `5` datasets: `seasons`, `teams`, `matches`, `appearances` (one observation per team per match), and `standings` (end-of-the-season league tables). 
+The Fjelstul English Football Database is a comprehensive database of football matches played in the Premier League and the English Football League from the 1888-89 inaugural season of the Football League through through the 2021-22 season. The database was created by Joshua C. Fjelstul, Ph.D. The database contains `5` datasets: `seasons`, `teams`, `matches`, `appearances` (one observation per team per match), and `standings` (end-of-the-season league tables). The `matches` dataset includes `203956` matches.
 
 ## Downloading the codebook
 
