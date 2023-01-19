@@ -1,0 +1,432 @@
+key_id,season_id,season,tier,division,subdivision,winner,count_teams
+1,1888-1,1888,1,First Division,None,Preston North End,12
+2,1889-1,1889,1,First Division,None,Preston North End,12
+3,1890-1,1890,1,First Division,None,Everton,12
+4,1891-1,1891,1,First Division,None,Sunderland,14
+5,1892-1,1892,1,First Division,None,Sunderland,16
+6,1892-2,1892,2,Second Division,None,Small Heath,12
+7,1893-1,1893,1,First Division,None,Aston Villa,16
+8,1893-2,1893,2,Second Division,None,Liverpool,15
+9,1894-1,1894,1,First Division,None,Sunderland,16
+10,1894-2,1894,2,Second Division,None,Bury,16
+11,1895-1,1895,1,First Division,None,Aston Villa,16
+12,1895-2,1895,2,Second Division,None,Liverpool,16
+13,1896-1,1896,1,First Division,None,Aston Villa,16
+14,1896-2,1896,2,Second Division,None,Notts County,16
+15,1897-1,1897,1,First Division,None,Sheffield United,16
+16,1897-2,1897,2,Second Division,None,Burnley,16
+17,1898-1,1898,1,First Division,None,Aston Villa,18
+18,1898-2,1898,2,Second Division,None,Manchester City,18
+19,1899-1,1899,1,First Division,None,Aston Villa,18
+20,1899-2,1899,2,Second Division,None,The Wednesday,18
+21,1900-1,1900,1,First Division,None,Liverpool,18
+22,1900-2,1900,2,Second Division,None,Grimsby Town,18
+23,1901-1,1901,1,First Division,None,Sunderland,18
+24,1901-2,1901,2,Second Division,None,West Bromwich Albion,18
+25,1902-1,1902,1,First Division,None,The Wednesday,18
+26,1902-2,1902,2,Second Division,None,Manchester City,18
+27,1903-1,1903,1,First Division,None,The Wednesday,18
+28,1903-2,1903,2,Second Division,None,Preston North End,18
+29,1904-1,1904,1,First Division,None,Newcastle United,18
+30,1904-2,1904,2,Second Division,None,Liverpool,18
+31,1905-1,1905,1,First Division,None,Liverpool,20
+32,1905-2,1905,2,Second Division,None,Bristol City,20
+33,1906-1,1906,1,First Division,None,Newcastle United,20
+34,1906-2,1906,2,Second Division,None,Nottingham Forest,20
+35,1907-1,1907,1,First Division,None,Manchester United,20
+36,1907-2,1907,2,Second Division,None,Bradford City,20
+37,1908-1,1908,1,First Division,None,Newcastle United,20
+38,1908-2,1908,2,Second Division,None,Bolton Wanderers,20
+39,1909-1,1909,1,First Division,None,Aston Villa,20
+40,1909-2,1909,2,Second Division,None,Manchester City,20
+41,1910-1,1910,1,First Division,None,Manchester United,20
+42,1910-2,1910,2,Second Division,None,West Bromwich Albion,20
+43,1911-1,1911,1,First Division,None,Blackburn Rovers,20
+44,1911-2,1911,2,Second Division,None,Derby County,20
+45,1912-1,1912,1,First Division,None,Sunderland,20
+46,1912-2,1912,2,Second Division,None,Preston North End,20
+47,1913-1,1913,1,First Division,None,Blackburn Rovers,20
+48,1913-2,1913,2,Second Division,None,Notts County,20
+49,1914-1,1914,1,First Division,None,Everton,20
+50,1914-2,1914,2,Second Division,None,Derby County,20
+51,1919-1,1919,1,First Division,None,West Bromwich Albion,22
+52,1919-2,1919,2,Second Division,None,Tottenham Hotspur,22
+53,1920-1,1920,1,First Division,None,Burnley,22
+54,1920-2,1920,2,Second Division,None,Birmingham,22
+55,1920-3,1920,3,Third Division,None,Crystal Palace,22
+56,1921-1,1921,1,First Division,None,Liverpool,22
+57,1921-2,1921,2,Second Division,None,Nottingham Forest,22
+58,1921-3-N,1921,3,Third Division,North,Stockport County,20
+59,1921-3-S,1921,3,Third Division,South,Southampton,22
+60,1922-1,1922,1,First Division,None,Liverpool,22
+61,1922-2,1922,2,Second Division,None,Notts County,22
+62,1922-3-N,1922,3,Third Division,North,Nelson,20
+63,1922-3-S,1922,3,Third Division,South,Bristol City,22
+64,1923-1,1923,1,First Division,None,Huddersfield Town,22
+65,1923-2,1923,2,Second Division,None,Leeds United,22
+66,1923-3-N,1923,3,Third Division,North,Wolverhampton Wanderers,22
+67,1923-3-S,1923,3,Third Division,South,Portsmouth,22
+68,1924-1,1924,1,First Division,None,Huddersfield Town,22
+69,1924-2,1924,2,Second Division,None,Leicester City,22
+70,1924-3-N,1924,3,Third Division,North,Darlington,22
+71,1924-3-S,1924,3,Third Division,South,Swansea Town,22
+72,1925-1,1925,1,First Division,None,Huddersfield Town,22
+73,1925-2,1925,2,Second Division,None,The Wednesday,22
+74,1925-3-N,1925,3,Third Division,North,Grimsby Town,22
+75,1925-3-S,1925,3,Third Division,South,Reading,22
+76,1926-1,1926,1,First Division,None,Newcastle United,22
+77,1926-2,1926,2,Second Division,None,Middlesbrough,22
+78,1926-3-N,1926,3,Third Division,North,Stoke City,22
+79,1926-3-S,1926,3,Third Division,South,Bristol City,22
+80,1927-1,1927,1,First Division,None,Everton,22
+81,1927-2,1927,2,Second Division,None,Manchester City,22
+82,1927-3-N,1927,3,Third Division,North,Bradford Park Avenue,22
+83,1927-3-S,1927,3,Third Division,South,Millwall,22
+84,1928-1,1928,1,First Division,None,The Wednesday,22
+85,1928-2,1928,2,Second Division,None,Middlesbrough,22
+86,1928-3-N,1928,3,Third Division,North,Bradford City,22
+87,1928-3-S,1928,3,Third Division,South,Charlton Athletic,22
+88,1929-1,1929,1,First Division,None,Sheffield Wednesday,22
+89,1929-2,1929,2,Second Division,None,Blackpool,22
+90,1929-3-N,1929,3,Third Division,North,Port Vale,22
+91,1929-3-S,1929,3,Third Division,South,Plymouth Argyle,22
+92,1930-1,1930,1,First Division,None,Arsenal,22
+93,1930-2,1930,2,Second Division,None,Everton,22
+94,1930-3-N,1930,3,Third Division,North,Chesterfield,22
+95,1930-3-S,1930,3,Third Division,South,Notts County,22
+96,1931-1,1931,1,First Division,None,Everton,22
+97,1931-2,1931,2,Second Division,None,Wolverhampton Wanderers,22
+98,1931-3-N,1931,3,Third Division,North,Lincoln City,22
+99,1931-3-S,1931,3,Third Division,South,Fulham,22
+100,1932-1,1932,1,First Division,None,Arsenal,22
+101,1932-2,1932,2,Second Division,None,Stoke City,22
+102,1932-3-N,1932,3,Third Division,North,Hull City,22
+103,1932-3-S,1932,3,Third Division,South,Brentford,22
+104,1933-1,1933,1,First Division,None,Arsenal,22
+105,1933-2,1933,2,Second Division,None,Grimsby Town,22
+106,1933-3-N,1933,3,Third Division,North,Barnsley,22
+107,1933-3-S,1933,3,Third Division,South,Norwich City,22
+108,1934-1,1934,1,First Division,None,Arsenal,22
+109,1934-2,1934,2,Second Division,None,Brentford,22
+110,1934-3-N,1934,3,Third Division,North,Doncaster Rovers,22
+111,1934-3-S,1934,3,Third Division,South,Charlton Athletic,22
+112,1935-1,1935,1,First Division,None,Sunderland,22
+113,1935-2,1935,2,Second Division,None,Manchester United,22
+114,1935-3-N,1935,3,Third Division,North,Chesterfield,22
+115,1935-3-S,1935,3,Third Division,South,Coventry City,22
+116,1936-1,1936,1,First Division,None,Manchester City,22
+117,1936-2,1936,2,Second Division,None,Leicester City,22
+118,1936-3-N,1936,3,Third Division,North,Stockport County,22
+119,1936-3-S,1936,3,Third Division,South,Luton Town,22
+120,1937-1,1937,1,First Division,None,Arsenal,22
+121,1937-2,1937,2,Second Division,None,Aston Villa,22
+122,1937-3-N,1937,3,Third Division,North,Tranmere Rovers,22
+123,1937-3-S,1937,3,Third Division,South,Millwall,22
+124,1938-1,1938,1,First Division,None,Everton,22
+125,1938-2,1938,2,Second Division,None,Blackburn Rovers,22
+126,1938-3-N,1938,3,Third Division,North,Barnsley,22
+127,1938-3-S,1938,3,Third Division,South,Newport County,22
+128,1946-1,1946,1,First Division,None,Liverpool,22
+129,1946-2,1946,2,Second Division,None,Manchester City,22
+130,1946-3-N,1946,3,Third Division,North,Doncaster Rovers,22
+131,1946-3-S,1946,3,Third Division,South,Cardiff City,22
+132,1947-1,1947,1,First Division,None,Arsenal,22
+133,1947-2,1947,2,Second Division,None,Birmingham City,22
+134,1947-3-N,1947,3,Third Division,North,Lincoln City,22
+135,1947-3-S,1947,3,Third Division,South,Queens Park Rangers,22
+136,1948-1,1948,1,First Division,None,Portsmouth,22
+137,1948-2,1948,2,Second Division,None,Fulham,22
+138,1948-3-N,1948,3,Third Division,North,Hull City,22
+139,1948-3-S,1948,3,Third Division,South,Swansea Town,22
+140,1949-1,1949,1,First Division,None,Portsmouth,22
+141,1949-2,1949,2,Second Division,None,Tottenham Hotspur,22
+142,1949-3-N,1949,3,Third Division,North,Doncaster Rovers,22
+143,1949-3-S,1949,3,Third Division,South,Notts County,22
+144,1950-1,1950,1,First Division,None,Tottenham Hotspur,22
+145,1950-2,1950,2,Second Division,None,Preston North End,22
+146,1950-3-N,1950,3,Third Division,North,Rotherham United,24
+147,1950-3-S,1950,3,Third Division,South,Nottingham Forest,24
+148,1951-1,1951,1,First Division,None,Manchester United,22
+149,1951-2,1951,2,Second Division,None,Sheffield Wednesday,22
+150,1951-3-N,1951,3,Third Division,North,Lincoln City,24
+151,1951-3-S,1951,3,Third Division,South,Plymouth Argyle,24
+152,1952-1,1952,1,First Division,None,Arsenal,22
+153,1952-2,1952,2,Second Division,None,Sheffield United,22
+154,1952-3-N,1952,3,Third Division,North,Oldham Athletic,24
+155,1952-3-S,1952,3,Third Division,South,Bristol Rovers,24
+156,1953-1,1953,1,First Division,None,Wolverhampton Wanderers,22
+157,1953-2,1953,2,Second Division,None,Leicester City,22
+158,1953-3-N,1953,3,Third Division,North,Port Vale,24
+159,1953-3-S,1953,3,Third Division,South,Ipswich Town,24
+160,1954-1,1954,1,First Division,None,Chelsea,22
+161,1954-2,1954,2,Second Division,None,Birmingham City,22
+162,1954-3-N,1954,3,Third Division,North,Barnsley,24
+163,1954-3-S,1954,3,Third Division,South,Bristol City,24
+164,1955-1,1955,1,First Division,None,Manchester United,22
+165,1955-2,1955,2,Second Division,None,Sheffield Wednesday,22
+166,1955-3-N,1955,3,Third Division,North,Grimsby Town,24
+167,1955-3-S,1955,3,Third Division,South,Leyton Orient,24
+168,1956-1,1956,1,First Division,None,Manchester United,22
+169,1956-2,1956,2,Second Division,None,Leicester City,22
+170,1956-3-N,1956,3,Third Division,North,Derby County,24
+171,1956-3-S,1956,3,Third Division,South,Ipswich Town,24
+172,1957-1,1957,1,First Division,None,Wolverhampton Wanderers,22
+173,1957-2,1957,2,Second Division,None,West Ham United,22
+174,1957-3-N,1957,3,Third Division,North,Scunthorpe United,24
+175,1957-3-S,1957,3,Third Division,South,Brighton & Hove Albion,24
+176,1958-1,1958,1,First Division,None,Wolverhampton Wanderers,22
+177,1958-2,1958,2,Second Division,None,Sheffield Wednesday,22
+178,1958-3,1958,3,Third Division,None,Plymouth Argyle,24
+179,1958-4,1958,4,Fourth Division,None,Port Vale,24
+180,1959-1,1959,1,First Division,None,Burnley,22
+181,1959-2,1959,2,Second Division,None,Aston Villa,22
+182,1959-3,1959,3,Third Division,None,Southampton,24
+183,1959-4,1959,4,Fourth Division,None,Walsall,24
+184,1960-1,1960,1,First Division,None,Tottenham Hotspur,22
+185,1960-2,1960,2,Second Division,None,Ipswich Town,22
+186,1960-3,1960,3,Third Division,None,Bury,24
+187,1960-4,1960,4,Fourth Division,None,Peterborough United,24
+188,1961-1,1961,1,First Division,None,Ipswich Town,22
+189,1961-2,1961,2,Second Division,None,Liverpool,22
+190,1961-3,1961,3,Third Division,None,Portsmouth,24
+191,1961-4,1961,4,Fourth Division,None,Millwall,23
+192,1962-1,1962,1,First Division,None,Everton,22
+193,1962-2,1962,2,Second Division,None,Stoke City,22
+194,1962-3,1962,3,Third Division,None,Northampton Town,24
+195,1962-4,1962,4,Fourth Division,None,Brentford,24
+196,1963-1,1963,1,First Division,None,Liverpool,22
+197,1963-2,1963,2,Second Division,None,Leeds United,22
+198,1963-3,1963,3,Third Division,None,Coventry City,24
+199,1963-4,1963,4,Fourth Division,None,Gillingham,24
+200,1964-1,1964,1,First Division,None,Manchester United,22
+201,1964-2,1964,2,Second Division,None,Newcastle United,22
+202,1964-3,1964,3,Third Division,None,Carlisle United,24
+203,1964-4,1964,4,Fourth Division,None,Brighton & Hove Albion,24
+204,1965-1,1965,1,First Division,None,Liverpool,22
+205,1965-2,1965,2,Second Division,None,Manchester City,22
+206,1965-3,1965,3,Third Division,None,Hull City,24
+207,1965-4,1965,4,Fourth Division,None,Doncaster Rovers,24
+208,1966-1,1966,1,First Division,None,Manchester United,22
+209,1966-2,1966,2,Second Division,None,Coventry City,22
+210,1966-3,1966,3,Third Division,None,Queens Park Rangers,24
+211,1966-4,1966,4,Fourth Division,None,Stockport County,24
+212,1967-1,1967,1,First Division,None,Manchester City,22
+213,1967-2,1967,2,Second Division,None,Ipswich Town,22
+214,1967-3,1967,3,Third Division,None,Oxford United,24
+215,1967-4,1967,4,Fourth Division,None,Luton Town,24
+216,1968-1,1968,1,First Division,None,Leeds United,22
+217,1968-2,1968,2,Second Division,None,Derby County,22
+218,1968-3,1968,3,Third Division,None,Watford,24
+219,1968-4,1968,4,Fourth Division,None,Doncaster Rovers,24
+220,1969-1,1969,1,First Division,None,Everton,22
+221,1969-2,1969,2,Second Division,None,Huddersfield Town,22
+222,1969-3,1969,3,Third Division,None,Leyton Orient,24
+223,1969-4,1969,4,Fourth Division,None,Chesterfield,24
+224,1970-1,1970,1,First Division,None,Arsenal,22
+225,1970-2,1970,2,Second Division,None,Leicester City,22
+226,1970-3,1970,3,Third Division,None,Preston North End,24
+227,1970-4,1970,4,Fourth Division,None,Notts County,24
+228,1971-1,1971,1,First Division,None,Derby County,22
+229,1971-2,1971,2,Second Division,None,Norwich City,22
+230,1971-3,1971,3,Third Division,None,Aston Villa,24
+231,1971-4,1971,4,Fourth Division,None,Grimsby Town,24
+232,1972-1,1972,1,First Division,None,Liverpool,22
+233,1972-2,1972,2,Second Division,None,Burnley,22
+234,1972-3,1972,3,Third Division,None,Bolton Wanderers,24
+235,1972-4,1972,4,Fourth Division,None,Southport,24
+236,1973-1,1973,1,First Division,None,Leeds United,22
+237,1973-2,1973,2,Second Division,None,Middlesbrough,22
+238,1973-3,1973,3,Third Division,None,Oldham Athletic,24
+239,1973-4,1973,4,Fourth Division,None,Peterborough United,24
+240,1974-1,1974,1,First Division,None,Derby County,22
+241,1974-2,1974,2,Second Division,None,Manchester United,22
+242,1974-3,1974,3,Third Division,None,Blackburn Rovers,24
+243,1974-4,1974,4,Fourth Division,None,Mansfield Town,24
+244,1975-1,1975,1,First Division,None,Liverpool,22
+245,1975-2,1975,2,Second Division,None,Sunderland,22
+246,1975-3,1975,3,Third Division,None,Hereford United,24
+247,1975-4,1975,4,Fourth Division,None,Lincoln City,24
+248,1976-1,1976,1,First Division,None,Liverpool,22
+249,1976-2,1976,2,Second Division,None,Wolverhampton Wanderers,22
+250,1976-3,1976,3,Third Division,None,Mansfield Town,24
+251,1976-4,1976,4,Fourth Division,None,Cambridge United,24
+252,1977-1,1977,1,First Division,None,Nottingham Forest,22
+253,1977-2,1977,2,Second Division,None,Bolton Wanderers,22
+254,1977-3,1977,3,Third Division,None,Wrexham,24
+255,1977-4,1977,4,Fourth Division,None,Watford,24
+256,1978-1,1978,1,First Division,None,Liverpool,22
+257,1978-2,1978,2,Second Division,None,Crystal Palace,22
+258,1978-3,1978,3,Third Division,None,Shrewsbury Town,24
+259,1978-4,1978,4,Fourth Division,None,Reading,24
+260,1979-1,1979,1,First Division,None,Liverpool,22
+261,1979-2,1979,2,Second Division,None,Leicester City,22
+262,1979-3,1979,3,Third Division,None,Grimsby Town,24
+263,1979-4,1979,4,Fourth Division,None,Huddersfield Town,24
+264,1980-1,1980,1,First Division,None,Aston Villa,22
+265,1980-2,1980,2,Second Division,None,West Ham United,22
+266,1980-3,1980,3,Third Division,None,Rotherham United,24
+267,1980-4,1980,4,Fourth Division,None,Southend United,24
+268,1981-1,1981,1,First Division,None,Liverpool,22
+269,1981-2,1981,2,Second Division,None,Luton Town,22
+270,1981-3,1981,3,Third Division,None,Burnley,24
+271,1981-4,1981,4,Fourth Division,None,Sheffield United,24
+272,1982-1,1982,1,First Division,None,Liverpool,22
+273,1982-2,1982,2,Second Division,None,Queens Park Rangers,22
+274,1982-3,1982,3,Third Division,None,Portsmouth,24
+275,1982-4,1982,4,Fourth Division,None,Wimbledon,24
+276,1983-1,1983,1,First Division,None,Liverpool,22
+277,1983-2,1983,2,Second Division,None,Chelsea,22
+278,1983-3,1983,3,Third Division,None,Oxford United,24
+279,1983-4,1983,4,Fourth Division,None,York City,24
+280,1984-1,1984,1,First Division,None,Everton,22
+281,1984-2,1984,2,Second Division,None,Oxford United,22
+282,1984-3,1984,3,Third Division,None,Bradford City,24
+283,1984-4,1984,4,Fourth Division,None,Chesterfield,24
+284,1985-1,1985,1,First Division,None,Liverpool,22
+285,1985-2,1985,2,Second Division,None,Norwich City,22
+286,1985-3,1985,3,Third Division,None,Reading,24
+287,1985-4,1985,4,Fourth Division,None,Swindon Town,24
+288,1986-1,1986,1,First Division,None,Everton,22
+289,1986-2,1986,2,Second Division,None,Derby County,22
+290,1986-3,1986,3,Third Division,None,AFC Bournemouth,24
+291,1986-4,1986,4,Fourth Division,None,Northampton Town,24
+292,1987-1,1987,1,First Division,None,Liverpool,21
+293,1987-2,1987,2,Second Division,None,Millwall,23
+294,1987-3,1987,3,Third Division,None,Sunderland,24
+295,1987-4,1987,4,Fourth Division,None,Wolverhampton Wanderers,24
+296,1988-1,1988,1,First Division,None,Arsenal,20
+297,1988-2,1988,2,Second Division,None,Chelsea,24
+298,1988-3,1988,3,Third Division,None,Wolverhampton Wanderers,24
+299,1988-4,1988,4,Fourth Division,None,Rotherham United,24
+300,1989-1,1989,1,First Division,None,Liverpool,20
+301,1989-2,1989,2,Second Division,None,Leeds United,24
+302,1989-3,1989,3,Third Division,None,Bristol Rovers,24
+303,1989-4,1989,4,Fourth Division,None,Exeter City,24
+304,1990-1,1990,1,First Division,None,Arsenal,20
+305,1990-2,1990,2,Second Division,None,Oldham Athletic,24
+306,1990-3,1990,3,Third Division,None,Cambridge United,24
+307,1990-4,1990,4,Fourth Division,None,Darlington,24
+308,1991-1,1991,1,First Division,None,Leeds United,22
+309,1991-2,1991,2,Second Division,None,Ipswich Town,24
+310,1991-3,1991,3,Third Division,None,Brentford,24
+311,1991-4,1991,4,Fourth Division,None,Burnley,23
+312,1992-1,1992,1,Premier League,None,Manchester United,22
+313,1992-2,1992,2,First Division,None,Newcastle United,24
+314,1992-3,1992,3,Second Division,None,Stoke City,24
+315,1992-4,1992,4,Third Division,None,Cardiff City,23
+316,1993-1,1993,1,Premier League,None,Manchester United,22
+317,1993-2,1993,2,First Division,None,Crystal Palace,24
+318,1993-3,1993,3,Second Division,None,Reading,24
+319,1993-4,1993,4,Third Division,None,Shrewsbury Town,22
+320,1994-1,1994,1,Premier League,None,Blackburn Rovers,22
+321,1994-2,1994,2,First Division,None,Middlesbrough,24
+322,1994-3,1994,3,Second Division,None,Birmingham City,24
+323,1994-4,1994,4,Third Division,None,Carlisle United,22
+324,1995-1,1995,1,Premier League,None,Manchester United,20
+325,1995-2,1995,2,First Division,None,Sunderland,24
+326,1995-3,1995,3,Second Division,None,Swindon Town,24
+327,1995-4,1995,4,Third Division,None,Preston North End,24
+328,1996-1,1996,1,Premier League,None,Manchester United,20
+329,1996-2,1996,2,First Division,None,Bolton Wanderers,24
+330,1996-3,1996,3,Second Division,None,Bury,24
+331,1996-4,1996,4,Third Division,None,Wigan Athletic,24
+332,1997-1,1997,1,Premier League,None,Arsenal,20
+333,1997-2,1997,2,First Division,None,Nottingham Forest,24
+334,1997-3,1997,3,Second Division,None,Watford,24
+335,1997-4,1997,4,Third Division,None,Notts County,24
+336,1998-1,1998,1,Premier League,None,Manchester United,20
+337,1998-2,1998,2,First Division,None,Sunderland,24
+338,1998-3,1998,3,Second Division,None,Fulham,24
+339,1998-4,1998,4,Third Division,None,Brentford,24
+340,1999-1,1999,1,Premier League,None,Manchester United,20
+341,1999-2,1999,2,First Division,None,Charlton Athletic,24
+342,1999-3,1999,3,Second Division,None,Preston North End,24
+343,1999-4,1999,4,Third Division,None,Swansea City,24
+344,2000-1,2000,1,Premier League,None,Manchester United,20
+345,2000-2,2000,2,First Division,None,Fulham,24
+346,2000-3,2000,3,Second Division,None,Millwall,24
+347,2000-4,2000,4,Third Division,None,Brighton & Hove Albion,24
+348,2001-1,2001,1,Premier League,None,Arsenal,20
+349,2001-2,2001,2,First Division,None,Manchester City,24
+350,2001-3,2001,3,Second Division,None,Brighton & Hove Albion,24
+351,2001-4,2001,4,Third Division,None,Plymouth Argyle,24
+352,2002-1,2002,1,Premier League,None,Manchester United,20
+353,2002-2,2002,2,First Division,None,Portsmouth,24
+354,2002-3,2002,3,Second Division,None,Wigan Athletic,24
+355,2002-4,2002,4,Third Division,None,Rushden & Diamonds,24
+356,2003-1,2003,1,Premier League,None,Arsenal,20
+357,2003-2,2003,2,First Division,None,Norwich City,24
+358,2003-3,2003,3,Second Division,None,Plymouth Argyle,24
+359,2003-4,2003,4,Third Division,None,Doncaster Rovers,24
+360,2004-1,2004,1,Premier League,None,Chelsea,20
+361,2004-2,2004,2,Championship,None,Sunderland,24
+362,2004-3,2004,3,League One,None,Luton Town,24
+363,2004-4,2004,4,League Two,None,Yeovil Town,24
+364,2005-1,2005,1,Premier League,None,Chelsea,20
+365,2005-2,2005,2,Championship,None,Reading,24
+366,2005-3,2005,3,League One,None,Southend United,24
+367,2005-4,2005,4,League Two,None,Carlisle United,24
+368,2006-1,2006,1,Premier League,None,Manchester United,20
+369,2006-2,2006,2,Championship,None,Sunderland,24
+370,2006-3,2006,3,League One,None,Scunthorpe United,24
+371,2006-4,2006,4,League Two,None,Walsall,24
+372,2007-1,2007,1,Premier League,None,Manchester United,20
+373,2007-2,2007,2,Championship,None,West Bromwich Albion,24
+374,2007-3,2007,3,League One,None,Swansea City,24
+375,2007-4,2007,4,League Two,None,Milton Keynes Dons,24
+376,2008-1,2008,1,Premier League,None,Manchester United,20
+377,2008-2,2008,2,Championship,None,Wolverhampton Wanderers,24
+378,2008-3,2008,3,League One,None,Leicester City,24
+379,2008-4,2008,4,League Two,None,Brentford,24
+380,2009-1,2009,1,Premier League,None,Chelsea,20
+381,2009-2,2009,2,Championship,None,Newcastle United,24
+382,2009-3,2009,3,League One,None,Norwich City,24
+383,2009-4,2009,4,League Two,None,Notts County,24
+384,2010-1,2010,1,Premier League,None,Manchester United,20
+385,2010-2,2010,2,Championship,None,Queens Park Rangers,24
+386,2010-3,2010,3,League One,None,Brighton & Hove Albion,24
+387,2010-4,2010,4,League Two,None,Chesterfield,24
+388,2011-1,2011,1,Premier League,None,Manchester City,20
+389,2011-2,2011,2,Championship,None,Reading,24
+390,2011-3,2011,3,League One,None,Charlton Athletic,24
+391,2011-4,2011,4,League Two,None,Swindon Town,24
+392,2012-1,2012,1,Premier League,None,Manchester United,20
+393,2012-2,2012,2,Championship,None,Cardiff City,24
+394,2012-3,2012,3,League One,None,Doncaster Rovers,24
+395,2012-4,2012,4,League Two,None,Gillingham,24
+396,2013-1,2013,1,Premier League,None,Manchester City,20
+397,2013-2,2013,2,Championship,None,Leicester City,24
+398,2013-3,2013,3,League One,None,Wolverhampton Wanderers,24
+399,2013-4,2013,4,League Two,None,Chesterfield,24
+400,2014-1,2014,1,Premier League,None,Chelsea,20
+401,2014-2,2014,2,Championship,None,AFC Bournemouth,24
+402,2014-3,2014,3,League One,None,Bristol City,24
+403,2014-4,2014,4,League Two,None,Burton Albion,24
+404,2015-1,2015,1,Premier League,None,Leicester City,20
+405,2015-2,2015,2,Championship,None,Burnley,24
+406,2015-3,2015,3,League One,None,Wigan Athletic,24
+407,2015-4,2015,4,League Two,None,Northampton Town,24
+408,2016-1,2016,1,Premier League,None,Chelsea,20
+409,2016-2,2016,2,Championship,None,Newcastle United,24
+410,2016-3,2016,3,League One,None,Sheffield United,24
+411,2016-4,2016,4,League Two,None,Portsmouth,24
+412,2017-1,2017,1,Premier League,None,Manchester City,20
+413,2017-2,2017,2,Championship,None,Wolverhampton Wanderers,24
+414,2017-3,2017,3,League One,None,Wigan Athletic,24
+415,2017-4,2017,4,League Two,None,Accrington Stanley,24
+416,2018-1,2018,1,Premier League,None,Manchester City,20
+417,2018-2,2018,2,Championship,None,Norwich City,24
+418,2018-3,2018,3,League One,None,Luton Town,24
+419,2018-4,2018,4,League Two,None,Lincoln City,24
+420,2019-1,2019,1,Premier League,None,Liverpool,20
+421,2019-2,2019,2,Championship,None,Leeds United,24
+422,2019-3,2019,3,League One,None,Coventry City,24
+423,2019-4,2019,4,League Two,None,Swindon Town,24
+424,2020-1,2020,1,Premier League,None,Manchester City,20
+425,2020-2,2020,2,Championship,None,Norwich City,24
+426,2020-3,2020,3,League One,None,Hull City,24
+427,2020-4,2020,4,League Two,None,Cheltenham Town,24
+428,2021-1,2021,1,Premier League,None,Manchester City,20
+429,2021-2,2021,2,Championship,None,Fulham,24
+430,2021-3,2021,3,League One,None,Wigan Athletic,24
+431,2021-4,2021,4,League Two,None,Forest Green Rovers,24

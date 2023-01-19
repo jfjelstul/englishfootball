@@ -1,0 +1,166 @@
+key_id,team_id,team_name,current_team_name,current,former,defunct,renamed,first_appearance
+1,T-001,Accrington,Accrington,0,0,1,0,1888
+2,T-002,Aston Villa,Aston Villa,1,0,0,0,1888
+3,T-003,Blackburn Rovers,Blackburn Rovers,1,0,0,0,1888
+4,T-004,Bolton Wanderers,Bolton Wanderers,1,0,0,0,1888
+5,T-005,Burnley,Burnley,1,0,0,0,1888
+6,T-006,Derby County,Derby County,1,0,0,0,1888
+7,T-007,Everton,Everton,1,0,0,0,1888
+8,T-008,Notts County,Notts County,0,1,0,0,1888
+9,T-009,Preston North End,Preston North End,1,0,0,0,1888
+10,T-010,Stoke,Stoke City,0,0,0,1,1888
+11,T-010,Stoke City,Stoke City,1,0,0,0,1927
+12,T-011,West Bromwich Albion,West Bromwich Albion,1,0,0,0,1888
+13,T-012,Wolverhampton Wanderers,Wolverhampton Wanderers,1,0,0,0,1888
+14,T-013,Sunderland,Sunderland,1,0,0,0,1890
+15,T-014,Darwen,Darwen,0,0,1,0,1891
+16,T-015,Small Heath,Birmingham City,0,0,0,1,1892
+17,T-015,Birmingham,Birmingham City,0,0,0,1,1905
+18,T-015,Birmingham City,Birmingham City,1,0,0,0,1948
+19,T-016,Bootle,Bootle,0,0,1,0,1892
+20,T-017,Burton Swifts,Burton Swifts,0,0,1,0,1892
+21,T-018,Crewe Alexandra,Crewe Alexandra,1,0,0,0,1892
+22,T-019,Grimsby Town,Grimsby Town,1,0,0,0,1892
+23,T-020,Lincoln City,Lincoln City,1,0,0,0,1892
+24,T-021,Ardwick,Manchester City,0,0,0,1,1892
+25,T-021,Manchester City,Manchester City,1,0,0,0,1894
+26,T-022,Newton Heath,Manchester United,0,0,0,1,1892
+27,T-022,Manchester United,Manchester United,1,0,0,0,1902
+28,T-023,Northwich Victoria,Northwich Victoria,0,1,0,0,1892
+29,T-024,Nottingham Forest,Nottingham Forest,1,0,0,0,1892
+30,T-025,Burslem Port Vale,Port Vale,0,0,0,1,1892
+31,T-025,Port Vale,Port Vale,1,0,0,0,1919
+32,T-026,Sheffield United,Sheffield United,1,0,0,0,1892
+33,T-027,The Wednesday,Sheffield Wednesday,0,0,0,1,1892
+34,T-027,Sheffield Wednesday,Sheffield Wednesday,1,0,0,0,1929
+35,T-028,Walsall Town Swifts,Walsall,0,0,0,1,1892
+36,T-028,Walsall,Walsall,1,0,0,0,1893
+37,T-029,Woolwich Arsenal,Arsenal,0,0,0,1,1893
+38,T-029,Arsenal,Arsenal,1,0,0,0,1914
+39,T-030,Liverpool,Liverpool,1,0,0,0,1893
+40,T-031,Middlesbrough Ironopolis,Middlesbrough Ironopolis,0,0,1,0,1893
+41,T-032,Newcastle United,Newcastle United,1,0,0,0,1893
+42,T-033,Rotherham Town,Rotherham Town,0,0,1,0,1893
+43,T-034,Burton Wanderers,Burton Wanderers,0,0,1,0,1894
+44,T-035,Bury,Bury,0,1,0,0,1894
+45,T-036,Leicester Fosse,Leicester City,0,0,0,1,1894
+46,T-036,Leicester City,Leicester City,1,0,0,0,1919
+47,T-037,Loughborough,Loughborough,0,0,1,0,1895
+48,T-038,Blackpool,Blackpool,1,0,0,0,1896
+49,T-039,Gainsborough Trinity,Gainsborough Trinity,0,1,0,0,1896
+50,T-040,Luton Town,Luton Town,1,0,0,0,1897
+51,T-041,Barnsley,Barnsley,1,0,0,0,1898
+52,T-042,Glossop North End,Glossop,0,0,0,1,1898
+53,T-042,Glossop,Glossop,0,1,0,0,1899
+54,T-043,New Brighton Tower,New Brighton Tower,0,0,1,0,1898
+55,T-044,Chesterfield Town,Chesterfield,0,0,0,1,1899
+56,T-044,Chesterfield,Chesterfield,0,1,0,0,1921
+57,T-045,Middlesbrough,Middlesbrough,1,0,0,0,1899
+58,T-046,Stockport County,Stockport County,1,0,0,0,1900
+59,T-047,Bristol City,Bristol City,1,0,0,0,1901
+60,T-048,Burton United,Burton United,0,0,1,0,1901
+61,T-049,Doncaster Rovers,Doncaster Rovers,1,0,0,0,1901
+62,T-050,Bradford City,Bradford City,1,0,0,0,1903
+63,T-051,Chelsea,Chelsea,1,0,0,0,1905
+64,T-052,Hull City,Hull City,1,0,0,0,1905
+65,T-053,Leeds City,Leeds City,0,0,1,0,1905
+66,T-054,Clapton Orient,Leyton Orient,0,0,0,1,1905
+67,T-054,Leyton Orient,Leyton Orient,1,0,0,0,1946
+68,T-054,Orient,Leyton Orient,0,0,0,1,1966
+69,T-055,Fulham,Fulham,1,0,0,0,1907
+70,T-056,Oldham Athletic,Oldham Athletic,0,1,0,0,1907
+71,T-057,Bradford Park Avenue,Bradford Park Avenue,0,1,0,0,1908
+72,T-058,Tottenham Hotspur,Tottenham Hotspur,1,0,0,0,1908
+73,T-059,Huddersfield Town,Huddersfield Town,1,0,0,0,1910
+74,T-060,Coventry City,Coventry City,1,0,0,0,1919
+75,T-061,South Shields,Gateshead,0,0,0,1,1919
+76,T-061,Gateshead,Gateshead,0,0,1,0,1930
+77,T-062,Rotherham County,Rotherham County,0,0,1,0,1919
+78,T-063,West Ham United,West Ham United,1,0,0,0,1919
+79,T-064,Brentford,Brentford,1,0,0,0,1920
+80,T-065,Brighton & Hove Albion,Brighton & Hove Albion,1,0,0,0,1920
+81,T-066,Bristol Rovers,Bristol Rovers,1,0,0,0,1920
+82,T-067,Cardiff City,Cardiff City,1,0,0,0,1920
+83,T-068,Crystal Palace,Crystal Palace,1,0,0,0,1920
+84,T-069,Exeter City,Exeter City,1,0,0,0,1920
+85,T-070,Gillingham,Gillingham,1,0,0,0,1920
+86,T-071,Leeds United,Leeds United,1,0,0,0,1920
+87,T-072,Merthyr Town,Merthyr Town,0,1,0,0,1920
+88,T-073,Millwall,Millwall,1,0,0,0,1920
+89,T-074,Newport County,Newport County,1,0,0,0,1920
+90,T-075,Northampton Town,Northampton Town,1,0,0,0,1920
+91,T-076,Norwich City,Norwich City,1,0,0,0,1920
+92,T-077,Plymouth Argyle,Plymouth Argyle,1,0,0,0,1920
+93,T-078,Portsmouth,Portsmouth,1,0,0,0,1920
+94,T-079,Queens Park Rangers,Queens Park Rangers,1,0,0,0,1920
+95,T-080,Reading,Reading,1,0,0,0,1920
+96,T-081,Southampton,Southampton,1,0,0,0,1920
+97,T-082,Southend United,Southend United,0,1,0,0,1920
+98,T-083,Swansea Town,Swansea City,0,0,0,1,1920
+99,T-083,Swansea City,Swansea City,1,0,0,0,1969
+100,T-084,Swindon Town,Swindon Town,1,0,0,0,1920
+101,T-085,Watford,Watford,1,0,0,0,1920
+102,T-086,Aberdare Athletic,Aberdare Athletic,0,0,1,0,1921
+103,T-087,Accrington Stanley,Accrington Stanley,1,0,0,0,1921
+104,T-088,Ashington,Ashington,0,1,0,0,1921
+105,T-089,Barrow,Barrow,1,0,0,0,1921
+106,T-090,Charlton Athletic,Charlton Athletic,1,0,0,0,1921
+107,T-091,Darlington,Darlington,0,1,0,0,1921
+108,T-092,Durham City,Durham City,0,0,1,0,1921
+109,T-093,Halifax Town,Halifax Town,0,0,1,0,1921
+110,T-094,Hartlepools United,Hartlepool United,0,0,0,1,1921
+111,T-094,Hartlepool,Hartlepool United,0,0,0,1,1925
+112,T-094,Hartlepool United,Hartlepool United,1,0,0,0,1978
+113,T-095,Nelson,Nelson,0,1,0,0,1921
+114,T-096,Rochdale,Rochdale,1,0,0,0,1921
+115,T-097,Southport,Southport,0,1,0,0,1921
+116,T-098,Stalybridge Celtic,Stalybridge Celtic,0,1,0,0,1921
+117,T-099,Tranmere Rovers,Tranmere Rovers,1,0,0,0,1921
+118,T-100,Wigan Borough,Wigan Borough,0,0,1,0,1921
+119,T-101,Wrexham,Wrexham,0,1,0,0,1921
+120,T-102,Bournemouth & Boscombe Athletic,Bournemouth,0,0,0,1,1923
+121,T-102,Bournemouth,Bournemouth,1,0,0,0,1971
+122,T-103,New Brighton,New Brighton,0,0,1,0,1923
+123,T-104,Rotherham United,Rotherham United,1,0,0,0,1925
+124,T-105,Torquay United,Torquay United,0,1,0,0,1927
+125,T-106,Carlisle United,Carlisle United,1,0,0,0,1928
+126,T-107,York City,York City,0,1,0,0,1929
+127,T-108,Thames,Thames,0,0,1,0,1930
+128,T-109,Chester,Chester City,0,0,0,1,1931
+129,T-109,Chester City,Chester City,0,0,1,0,1983
+130,T-110,Mansfield Town,Mansfield Town,1,0,0,0,1931
+131,T-111,Aldershot,Aldershot,0,0,1,0,1932
+132,T-112,Ipswich Town,Ipswich Town,1,0,0,0,1938
+133,T-113,Colchester United,Colchester United,1,0,0,0,1950
+134,T-114,Scunthorpe & Lindsey United,Scunthorpe United,0,0,0,1,1950
+135,T-114,Scunthorpe United,Scunthorpe United,0,1,0,0,1958
+136,T-115,Shrewsbury Town,Shrewsbury Town,1,0,0,0,1950
+137,T-116,Workington,Workington,0,1,0,0,1951
+138,T-117,Peterborough United,Peterborough United,1,0,0,0,1960
+139,T-118,Oxford United,Oxford United,1,0,0,0,1962
+140,T-119,Cambridge United,Cambridge United,1,0,0,0,1970
+141,T-120,Hereford United,Hereford United,0,0,1,0,1972
+142,T-121,Wimbledon,Wimbledon,0,0,1,0,1977
+143,T-122,Wigan Athletic,Wigan Athletic,1,0,0,0,1978
+144,T-123,Scarborough,Scarborough,0,0,1,0,1987
+145,T-124,Maidstone United,Maidstone United,0,0,1,0,1989
+146,T-125,Barnet,Barnet,0,1,0,0,1991
+147,T-126,Wycombe Wanderers,Wycombe Wanderers,1,0,0,0,1993
+148,T-127,Macclesfield Town,Macclesfield Town,0,0,1,0,1997
+149,T-128,Cheltenham Town,Cheltenham Town,1,0,0,0,1999
+150,T-129,Kidderminster Harriers,Kidderminster Harriers,0,1,0,0,2000
+151,T-130,Rushden & Diamonds,Rushden & Diamonds,0,0,1,0,2001
+152,T-131,Boston United,Boston United,0,1,0,0,2002
+153,T-132,Yeovil Town,Yeovil Town,0,1,0,0,2003
+154,T-133,Milton Keynes Dons,Milton Keynes Dons,1,0,0,0,2004
+155,T-134,Dagenham & Redbridge,Dagenham & Redbridge,0,1,0,0,2007
+156,T-135,Morecambe,Morecambe,1,0,0,0,2007
+157,T-136,Aldershot Town,Aldershot Town,0,1,0,0,2008
+158,T-137,Burton Albion,Burton Albion,1,0,0,0,2009
+159,T-138,Stevenage,Stevenage,1,0,0,0,2010
+160,T-139,Crawley Town,Crawley Town,1,0,0,0,2011
+161,T-140,Fleetwood Town,Fleetwood Town,1,0,0,0,2012
+162,T-141,Forest Green Rovers,Forest Green Rovers,1,0,0,0,2017
+163,T-142,Salford City,Salford City,1,0,0,0,2019
+164,T-143,Harrogate Town,Harrogate Town,1,0,0,0,2020
+165,T-144,Sutton United,Sutton United,1,0,0,0,2021
