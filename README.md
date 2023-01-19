@@ -39,12 +39,12 @@ devtools::install_github("jfjelstul/englishfootball")
 
 If you use the database in a paper or project, please cite the database:
 
-> Fjelstul, Joshua C. "The Fjelstul English Football Database v.1.0." July 8, 2022. https://www.github.com/jfjelstul/worldcup.
+> Fjelstul, Joshua C. "The Fjelstul English Football Database v.1.0." July 8, 2023. https://www.github.com/jfjelstul/englishfootball.
 
 The `BibTeX` entry for the database is:
 
 ```
-@Manual{Fjelstul2022,
+@Manual{Fjelstul2023,
   author = {Fjelstul, Joshua C.},
   title = {The Fjelstul English Football Database v.1.0},
   year = {2023}
@@ -53,7 +53,7 @@ The `BibTeX` entry for the database is:
 
 If you access the database via the `englishfootball` package, please also cite the package:
 
-> Joshua C. Fjelstul (2023). worldcup: The Fjelstul English Football Database. R package version 0.1.0.
+> Joshua C. Fjelstul (2023). englishfootball: The Fjelstul English Football Database. R package version 0.1.0.
 
 The `BibTeX` entry for the `R` package is:
 
