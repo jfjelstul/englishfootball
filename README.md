@@ -39,7 +39,7 @@ devtools::install_github("jfjelstul/englishfootball")
 
 If you use the database in a paper or project, please cite the database:
 
-> Fjelstul, Joshua C. "The Fjelstul English Football Database v.1.0." July 8, 2023. https://www.github.com/jfjelstul/englishfootball.
+> Fjelstul, Joshua C. "The Fjelstul English Football Database v.1.0." January 19, 2023. https://www.github.com/jfjelstul/englishfootball.
 
 The `BibTeX` entry for the database is:
 
