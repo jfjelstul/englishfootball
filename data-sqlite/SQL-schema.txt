@@ -1,0 +1,109 @@
+-- SQL schema for the Fjelstul English Football Database
+
+-- the order of the datasets for creating primary and foreign keys:
+
+-- seasons
+-- teams
+-- matches
+-- appearances
+-- standings
+
+-- drop tables
+DROP TABLE IF EXISTS standings;
+DROP TABLE IF EXISTS appearances;
+DROP TABLE IF EXISTS matches;
+DROP TABLE IF EXISTS seasons;
+DROP TABLE IF EXISTS teams;
+
+-- seasons
+-- one record per season
+CREATE TABLE seasons(
+  season_id TEXT NOT NULL,
+  season INT NOT NULL,
+  tier INT NOT NULL,
+  division TEXT NOT NULL,
+  subdivision TEXT NOT NULL,
+  winner TEXT NOT NULL,
+  count_teams INT NOT NULL,
+  PRIMARY KEY (season_id)
+);
+
+-- teams
+-- one record per team
+CREATE TABLE teams(
+  team_id TEXT NOT NULL,
+  team_name TEXT NOT NULL,
+  former_team_names TEXT NOT NULL,
+  current BOOLEAN NOT NULL,
+  former BOOLEAN NOT NULL,
+  defunct BOOLEAN NOT NULL,
+  first_appearance INT NOT NULL,
+  PRIMARY KEY (team_id)
+);
+
+-- matches
+-- one record per match
+CREATE TABLE matches(
+  season_id TEXT NOT NULL,
+  match_id TEXT NOT NULL,
+  match_name TEXT NOT NULL,
+  home_team_id TEXT NOT NULL,
+  away_team_id TEXT NOT NULL,
+  score INT NOT NULL,
+  home_team_score INT NOT NULL,
+  away_team_score INT NOT NULL,
+  home_team_score_margin INT NOT NULL,
+  away_team_score_margin INT NOT NULL,
+  result TEXT NOT NULL,
+  home_team_win BOOLEAN NOT NULL,
+  away_team_win BOOLEAN NOT NULL,
+  draw BOOLEAN NOT NULL,
+  PRIMARY KEY (match_id),
+  FOREIGN KEY (season_id) REFERENCES seasons (season_id),
+  FOREIGN KEY (home_team_id) REFERENCES teams (team_id),
+  FOREIGN KEY (away_team_id) REFERENCES teams (team_id)
+);
+
+-- appearances
+-- one record per team per match
+CREATE TABLE appearances(
+  season_id TEXT NOT NULL,
+  match_id TEXT NOT NULL,
+  team_id TEXT NOT NULL,
+  opponent_id TEXT NOT NULL,
+  home_team BOOLEAN NOT NULL,
+  away_team BOOLEAN NOT NULL,
+  goals_for INT NOT NULL,
+  goals_against INT NOT NULL,
+  goal_difference INT NOT NULL,
+  result TEXT NOT NULL,
+  win BOOLEAN NOT NULL,
+  lose BOOLEAN NOT NULL,
+  draw BOOLEAN NOT NULL,
+  points INT NOT NULL,
+  PRIMARY KEY (season_id, match_id, team_id),
+  FOREIGN KEY (season_id) REFERENCES seasons (season_id),
+  FOREIGN KEY (match_id) REFERENCES matches (match_id),
+  FOREIGN KEY (team_id) REFERENCES teams (team_id),
+  FOREIGN KEY (opponent_id) REFERENCES teams (team_id)
+);
+
+-- standings
+-- one record per team per season
+CREATE TABLE standings(
+  season_id TEXT NOT NULL,
+  position INT NOT NULL,
+  team_id TEXT NOT NULL,
+  played INT NOT NULL,
+  wins INT NOT NULL,
+  draws INT NOT NULL,
+  losses INT NOT NULL,
+  goals_for INT NOT NULL,
+  goals_against INT NOT NULL,
+  goal_difference INT NOT NULL,
+  points INT NOT NULL,
+  point_adjustment INT NOT NULL,
+  PRIMARY KEY (season_id, team_id),
+  FOREIGN KEY (season_id) REFERENCES seasons (season_id),
+  FOREIGN KEY (team_id) REFERENCES teams (team_id)
+);
