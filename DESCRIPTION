@@ -7,7 +7,6 @@ Authors@R: person(given = "Joshua C.",
            role = c("aut", "cre"),
            email = "joshfjelstul@gmail.com",
            comment = c(ORCID = "0000-0002-9494-260X"))
-Maintainer: Joshua C. Fjelstul, Ph.D.
 Description: This package contains the Fjelstul English Football Database. The database football matches played in the Premier League and the English Football League from the inaugural season of the Football League (1888-89) through the most recent season (2021-22). The database contains 5 datasets: seasons, teams, matches, appearances (one observation per team per match), and standings (end-of-the-season league tables). 
 Date: 2023-01-19
 License: CC-BY-SA 4.0
