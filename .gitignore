@@ -5,3 +5,8 @@ englishfootball.Rproj
 data-raw/
 .Rhistory
 .Rproj.user
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
