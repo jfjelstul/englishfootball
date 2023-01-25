@@ -71,7 +71,7 @@ The `BibTeX` entry for the database is:
 
 If you access the database via the `englishfootball` package, please also cite the package:
 
-> Joshua C. Fjelstul (2023). englishfootball: The Fjelstul English Football Database. R package version 1.1.0.
+> Joshua C. Fjelstul (2023). englishfootball: The Fjelstul English Football Database. R package version 0.1.0.
 
 The `BibTeX` entry for the `R` package is:
 
@@ -80,7 +80,7 @@ The `BibTeX` entry for the `R` package is:
   title = {englishfootball: The Fjelstul English Football Database},
   author = {Fjelstul, Joshua C.},
   year = {2023},
-  note = {R package version 1.1.0},
+  note = {R package version 0.1.0},
 }
 ```
 
