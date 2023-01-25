@@ -3,3 +3,4 @@
 ^data-raw/
 ^data-csv/
 ^data-sqlite/
+^codebook/
