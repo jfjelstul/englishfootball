@@ -1,0 +1,78 @@
+dataset_id,dataset,variable_id,variable,type,description
+1,seasons,1,key_id,integer,The unique ID number for the observation.
+1,seasons,2,season_id,text,"The unique ID number for the season. Has the format {S-####-#}, where the first number is the year in which the season started, the second number is the tier. In the third tier, from the 1921-22 season through the 1957-58 season, there were North and South subdivisions. These are indicated by a {-N} or {-S} suffix."
+1,seasons,3,season,integer,The year that the season started. 
+1,seasons,4,tier,integer,The tier in English football. The possible values are {1} through {4}.
+1,seasons,5,division,text,"The division in English football. For the current league structure, the possible values are {Premier League}, {Championship}, {League One}, and {League Two}. For previous league structures, the possible values are {First Division}, {Second Division}, {Third Division}, and {Fourth Division}."
+1,seasons,6,subdivision,text,"The subdivision in English football. In the third tier, from the 1921-22 season through the 1957-58 season, there were North and South subdivisions. The possible values are {North}, {South}, and {None}. "
+1,seasons,7,winner,text,The name of the team that won the league.
+1,seasons,8,count_teams,integer,The number of teams in the league (that actually played a match).
+2,teams,1,key_id,integer,The unique ID number for the observation.
+2,teams,2,team_id,text,"The unique ID number for the team. Has the format {T-###}, where the number is a counter that is assigned with the data sorted by the year of the team's first appearance in the Football League and then by the team's name."
+2,teams,3,team_name,text,The current name of the team.
+2,teams,4,former_team_names,text,"The former names of the team, separated by a comma. Coded {None} for teams that have not changed their name."
+2,teams,5,current,boolean,Whether the team currently competes in the English Football League or the Premier League. Coded {1} if the team currently competes in these leagues and {0} otherwise.
+2,teams,6,former,boolean,Whether the team no longer competes in the English Football League or the Premier League (but still exists).  Coded {1} if the team is no longer in these leagues and {0} otherwise.
+2,teams,7,defunct,boolean,Whether the team is defunct and no longer exists. Coded {1} if the team is defunct and {0} otherwise.
+2,teams,8,first_appearance,integer,The season that the team first competed in the Football League.
+3,matches,1,key_id,integer,The unique ID number for the observation.
+3,matches,2,season_id,text,The unique ID number for the season. References {season_id} in the {seasons} dataset.
+3,matches,3,season,integer,The year that the season started. 
+3,matches,4,tier,integer,The tier in English football. The possible values are {1} through {4}.
+3,matches,5,division,test,"The division in English football. For the current league structure, the possible values are {Premier League}, {Championship}, {League One}, and {League Two}. For previous league structures, the possible values are {First Division}, {Second Division}, {Third Division}, and {Fourth Division}."
+3,matches,6,subdivision,test,"The subdivision in English football. In the third tier, from the 1921-22 season through the 1957-58 season, there were North and South subdivisions. The possible values are {North}, {South}, and {None}. "
+3,matches,7,match_id,text,"The unique ID number for the match. Has the format {M-####-###}, where the first number is the season and second number is a within-season counter that is assigned with the data sorted by the name of the home team, then by the name of the away team."
+3,matches,8,match_name,text,The name of the match.
+3,matches,9,home_team_id,text,The unique ID number for the home team. References {team_id} in the {teams} dataset.
+3,matches,10,home_team_name,text,The name of the home team. See the {teams} dataset.
+3,matches,11,away_team_id,text,The unique ID number for the away team. References {team_id} in the {teams} dataset.
+3,matches,12,away_team_name,text,The name of the away team. See the {teams} dataset.
+3,matches,13,score,text,"The score of the match in the format {#-#}, where the first number is the score of the home team and the second number is the score of the away team."
+3,matches,14,home_team_score,integer,The score of the home team.
+3,matches,15,away_team_score,integer,The score of the away team.
+3,matches,16,home_team_score_margin,integer,The score margin for the home team.
+3,matches,17,away_team_score_margin,integer,The score margin for the away team.
+3,matches,18,result,enum,"The result of the match. The possible values are {home team win}, {away team win}, and {draw}."
+3,matches,19,home_team_win,boolean,Whether the home team won the match. Coded {1} if the home team won the match and {0} otherwise.
+3,matches,20,away_team_win,boolean,Whether the home team won the match. Coded {1} if the home team won the match and {0} otherwise.
+3,matches,21,draw,boolean,Whether the match ended in a draw. Coded {1} of the match ended in a draw and {0} otherwise.
+4,appearances,1,key_id,integer,The unique ID number for the observation.
+4,appearances,2,season_id,text,The unique ID number for the season. References {season_id} in the {seasons} dataset.
+4,appearances,3,season,integer,The year that the season started. 
+4,appearances,4,tier,integer,The tier in English football. The possible values are {1} through {4}.
+4,appearances,5,division,test,"The division in English football. For the current league structure, the possible values are {Premier League}, {Championship}, {League One}, and {League Two}. For previous league structures, the possible values are {First Division}, {Second Division}, {Third Division}, and {Fourth Division}."
+4,appearances,6,subdivision,test,"The subdivision in English football. In the third tier, from the 1921-22 season through the 1957-58 season, there were North and South subdivisions. The possible values are {North}, {South}, and {None}. "
+4,appearances,7,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
+4,appearances,8,match_name,text,The name of the match.
+4,appearances,9,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+4,appearances,10,team_name,text,The name of the team.
+4,appearances,11,opponent_id,text,The unique ID number for the team's opponent. References {team_id} in the {teams} dataset.
+4,appearances,12,opponent_name,text,The name of the team's opponent.
+4,appearances,13,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+4,appearances,14,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+4,appearances,15,goals_for,integer,The number of goals scored by the team.
+4,appearances,16,goals_against,integer,The number of goals scored against the team.
+4,appearances,17,goal_difference,integer,The team's goal difference.
+4,appearances,18,result,enum,"The result of the match. The possible values are {home team win}, {away team win}, and {draw}."
+4,appearances,19,win,boolean,Whether the team won the match. Coded {1} if the team won the match and {0} otherwise.
+4,appearances,20,lose,boolean,Whether the team lost the match. Coded {1} if the team lost the match and {0} otherwise.
+4,appearances,21,draw,boolean,Whether the match ended in a draw. Coded {1} of the match ended in a draw and {0} otherwise.
+4,appearances,22,points,integer,"The number of points the team earned from the match. A team earns {0} points for a loss and {1} point for a draw. From the 1888-89 season through the 1980-81 season, teams earned {2} points for a win. Starting with the 1981-82 season, teams have earned {3} points for a win."
+5,standings,1,key_id,integer,The unique ID number for the observation.
+5,standings,2,season_id,text,The unique ID number for the season. References {season_id} in the {seasons} dataset.
+5,standings,3,season,integer,The year that the season started. 
+5,standings,4,tier,integer,The tier in English football. The possible values are {1} through {4}.
+5,standings,5,division,test,"The division in English football. For the current league structure, the possible values are {Premier League}, {Championship}, {League One}, and {League Two}. For previous league structures, the possible values are {First Division}, {Second Division}, {Third Division}, and {Fourth Division}."
+5,standings,6,subdivision,test,"The subdivision in English football. In the third tier, from the 1921-22 season through the 1957-58 season, there were North and South subdivisions. The possible values are {North}, {South}, and {None}. "
+5,standings,7,position,integer,The team's final position in the league.
+5,standings,8,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+5,standings,9,team_name,text,The name of the team.
+5,standings,10,played,integer,The number of matches that the team played.
+5,standings,11,wins,integer,The number of matches that the team won.
+5,standings,12,draws,integer,The number of matches that the team drew.
+5,standings,13,losses,integer,The number of matches that the team lost.
+5,standings,14,goals_for,integer,The number of goals scored by the team.
+5,standings,15,goals_against,integer,The number of goals scored against the team.
+5,standings,16,goal_difference,integer,The team's goal difference.
+5,standings,17,points,integer,The number of points that the team earned over the whole season (after any point adjustments). 
+5,standings,18,point_adjustment,integer,The number of points that were deducted by the league due to violations of league rules or added by the league due to forfeits.
