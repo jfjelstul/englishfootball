@@ -48,8 +48,8 @@ team.}
 \code{home team win}, \code{away team win}, and \code{draw}.}
 \item{home_team_win}{\code{boolean}. Whether the home team won the match.
 Coded \code{1} if the home team won the match and \code{0} otherwise.}
-\item{away_team_win}{\code{boolean}. Whether the home team won the match.
-Coded \code{1} if the home team won the match and \code{0} otherwise.}
+\item{away_team_win}{\code{boolean}. Whether the away team won the match.
+Coded \code{1} if the away team won the match and \code{0} otherwise.}
 \item{draw}{\code{boolean}. Whether the match ended in a draw. Coded
 \code{1} of the match ended in a draw and \code{0} otherwise.}
 }
