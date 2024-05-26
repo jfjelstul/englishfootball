@@ -2,7 +2,7 @@
 
 The Fjelstul English Football Database is a comprehensive database of football matches played in the Premier League and the English Football League from the inaugural season of the Football League in 1888-89 through the 2023-24 season. The database was created by Joshua C. Fjelstul, Ph.D.
 
-The database contains `5` datasets: `seasons`, `teams`, `matches`, `appearances` (one observation per team per match), and `standings` (end-of-the-season league tables). The `matches` dataset includes `203956` matches.
+The database contains `5` datasets: `seasons`, `teams`, `matches`, `appearances` (one observation per team per match), and `standings` (end-of-the-season league tables). The `matches` dataset includes `208028` matches.
 
 If you use data from this database in a project, please let me know so I can feature your work!
 
@@ -57,23 +57,23 @@ devtools::install_github("jfjelstul/englishfootball")
 
 ## Citating the database
 
-If you use the database in a paper or project, please cite the database:
+If you use the database in project, please cite the database:
 
-> Fjelstul, Joshua C. "The Fjelstul English Football Database v1.1.0." January 19, 2023. https://www.github.com/jfjelstul/englishfootball.
+> Fjelstul, Joshua C. "The Fjelstul English Football Database v1.1.0." May 26, 2024. https://www.github.com/jfjelstul/englishfootball.
 
 The `BibTeX` entry for the database is:
 
 ```
-@Manual{Fjelstul2023,
+@Manual{Fjelstul2024,
   author = {Fjelstul, Joshua C.},
   title = {The Fjelstul English Football Database v1.1.0},
-  year = {2023}
+  year = {2024}
 }
 ```
 
 If you access the database via the `englishfootball` package, please also cite the package:
 
-> Joshua C. Fjelstul (2023). englishfootball: The Fjelstul English Football Database. R package version 0.1.0.
+> Joshua C. Fjelstul (2024). englishfootball: The Fjelstul English Football Database. R package version 1.1.0.
 
 The `BibTeX` entry for the `R` package is:
 
@@ -81,8 +81,8 @@ The `BibTeX` entry for the `R` package is:
 @Manual{,
   title = {englishfootball: The Fjelstul English Football Database},
   author = {Fjelstul, Joshua C.},
-  year = {2023},
-  note = {R package version 0.1.0},
+  year = {2024},
+  note = {R package version 1.1.0},
 }
 ```
 
