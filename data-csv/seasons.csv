@@ -430,3 +430,11 @@ key_id,season_id,season,tier,division,subdivision,winner,count_teams
 429,S-2021-2,2021,2,Championship,None,Fulham,24
 430,S-2021-3,2021,3,League One,None,Wigan Athletic,24
 431,S-2021-4,2021,4,League Two,None,Forest Green Rovers,24
+432,S-2022-1,2022,1,Premier League,None,Manchester City,20
+433,S-2022-2,2022,2,Championship,None,Burnley,24
+434,S-2022-3,2022,3,League One,None,Plymouth Argyle,24
+435,S-2022-4,2022,4,League Two,None,Leyton Orient,24
+436,S-2023-1,2023,1,Premier League,None,Manchester City,20
+437,S-2023-2,2023,2,Championship,None,Leicester City,24
+438,S-2023-3,2023,3,League One,None,Portsmouth,24
+439,S-2023-4,2023,4,League Two,None,Stockport County,24

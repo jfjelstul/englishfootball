@@ -9555,3 +9555,187 @@ key_id,season_id,season,tier,division,subdivision,position,team_id,team_name,pla
 9554,S-2021-4,2021,4,League Two,None,22,T-089,Barrow,46,10,14,22,44,57,-13,44,0
 9555,S-2021-4,2021,4,League Two,None,23,T-056,Oldham Athletic,46,9,11,26,46,75,-29,38,0
 9556,S-2021-4,2021,4,League Two,None,24,T-114,Scunthorpe United,46,4,14,28,29,90,-61,26,0
+9557,S-2022-1,2022,1,Premier League,None,1,T-021,Manchester City,38,28,5,5,94,33,61,89,0
+9558,S-2022-1,2022,1,Premier League,None,2,T-029,Arsenal,38,26,6,6,88,43,45,84,0
+9559,S-2022-1,2022,1,Premier League,None,3,T-022,Manchester United,38,23,6,9,58,43,15,75,0
+9560,S-2022-1,2022,1,Premier League,None,4,T-032,Newcastle United,38,19,14,5,68,33,35,71,0
+9561,S-2022-1,2022,1,Premier League,None,5,T-030,Liverpool,38,19,10,9,75,47,28,67,0
+9562,S-2022-1,2022,1,Premier League,None,6,T-065,Brighton & Hove Albion,38,18,8,12,72,53,19,62,0
+9563,S-2022-1,2022,1,Premier League,None,7,T-002,Aston Villa,38,18,7,13,51,46,5,61,0
+9564,S-2022-1,2022,1,Premier League,None,8,T-058,Tottenham Hotspur,38,18,6,14,70,63,7,60,0
+9565,S-2022-1,2022,1,Premier League,None,9,T-064,Brentford,38,15,14,9,58,46,12,59,0
+9566,S-2022-1,2022,1,Premier League,None,10,T-055,Fulham,38,15,7,16,55,53,2,52,0
+9567,S-2022-1,2022,1,Premier League,None,11,T-068,Crystal Palace,38,11,12,15,40,49,-9,45,0
+9568,S-2022-1,2022,1,Premier League,None,12,T-051,Chelsea,38,11,11,16,38,47,-9,44,0
+9569,S-2022-1,2022,1,Premier League,None,13,T-012,Wolverhampton Wanderers,38,11,8,19,31,58,-27,41,0
+9570,S-2022-1,2022,1,Premier League,None,14,T-063,West Ham United,38,11,7,20,42,55,-13,40,0
+9571,S-2022-1,2022,1,Premier League,None,15,T-102,Bournemouth,38,11,6,21,37,71,-34,39,0
+9572,S-2022-1,2022,1,Premier League,None,16,T-024,Nottingham Forest,38,9,11,18,38,68,-30,38,0
+9573,S-2022-1,2022,1,Premier League,None,17,T-007,Everton,38,8,12,18,34,57,-23,36,0
+9574,S-2022-1,2022,1,Premier League,None,18,T-036,Leicester City,38,9,7,22,51,68,-17,34,0
+9575,S-2022-1,2022,1,Premier League,None,19,T-071,Leeds United,38,7,10,21,48,78,-30,31,0
+9576,S-2022-1,2022,1,Premier League,None,20,T-081,Southampton,38,6,7,25,36,73,-37,25,0
+9577,S-2022-2,2022,2,Championship,None,1,T-005,Burnley,46,29,14,3,87,35,52,101,0
+9578,S-2022-2,2022,2,Championship,None,2,T-026,Sheffield United,46,28,7,11,73,39,34,91,0
+9579,S-2022-2,2022,2,Championship,None,3,T-040,Luton Town,46,21,17,8,57,39,18,80,0
+9580,S-2022-2,2022,2,Championship,None,4,T-045,Middlesbrough,46,22,9,15,84,56,28,75,0
+9581,S-2022-2,2022,2,Championship,None,5,T-060,Coventry City,46,18,16,12,58,46,12,70,0
+9582,S-2022-2,2022,2,Championship,None,6,T-013,Sunderland,46,18,15,13,68,55,13,69,0
+9583,S-2022-2,2022,2,Championship,None,7,T-003,Blackburn Rovers,46,20,9,17,52,54,-2,69,0
+9584,S-2022-2,2022,2,Championship,None,8,T-073,Millwall,46,19,11,16,57,50,7,68,0
+9585,S-2022-2,2022,2,Championship,None,9,T-011,West Bromwich Albion,46,18,12,16,59,53,6,66,0
+9586,S-2022-2,2022,2,Championship,None,10,T-083,Swansea City,46,18,12,16,68,64,4,66,0
+9587,S-2022-2,2022,2,Championship,None,11,T-085,Watford,46,16,15,15,56,53,3,63,0
+9588,S-2022-2,2022,2,Championship,None,12,T-009,Preston North End,46,17,12,17,45,59,-14,63,0
+9589,S-2022-2,2022,2,Championship,None,13,T-076,Norwich City,46,17,11,18,57,54,3,62,0
+9590,S-2022-2,2022,2,Championship,None,14,T-047,Bristol City,46,15,14,17,55,56,-1,59,0
+9591,S-2022-2,2022,2,Championship,None,15,T-052,Hull City,46,14,16,16,51,61,-10,58,0
+9592,S-2022-2,2022,2,Championship,None,16,T-010,Stoke City,46,14,11,21,55,54,1,53,0
+9593,S-2022-2,2022,2,Championship,None,17,T-015,Birmingham City,46,14,11,21,47,58,-11,53,0
+9594,S-2022-2,2022,2,Championship,None,18,T-059,Huddersfield Town,46,14,11,21,47,62,-15,53,0
+9595,S-2022-2,2022,2,Championship,None,19,T-104,Rotherham United,46,11,17,18,49,60,-11,50,0
+9596,S-2022-2,2022,2,Championship,None,20,T-079,Queens Park Rangers,46,13,11,22,44,71,-27,50,0
+9597,S-2022-2,2022,2,Championship,None,21,T-067,Cardiff City,46,13,10,23,41,58,-17,49,0
+9598,S-2022-2,2022,2,Championship,None,22,T-080,Reading,46,13,11,22,46,68,-22,44,-6
+9599,S-2022-2,2022,2,Championship,None,23,T-038,Blackpool,46,11,11,24,48,72,-24,44,0
+9600,S-2022-2,2022,2,Championship,None,24,T-122,Wigan Athletic,46,10,15,21,38,65,-27,42,-3
+9601,S-2022-3,2022,3,League One,None,1,T-077,Plymouth Argyle,46,31,8,7,82,47,35,101,0
+9602,S-2022-3,2022,3,League One,None,2,T-112,Ipswich Town,46,28,14,4,101,35,66,98,0
+9603,S-2022-3,2022,3,League One,None,3,T-027,Sheffield Wednesday,46,28,12,6,81,37,44,96,0
+9604,S-2022-3,2022,3,League One,None,4,T-041,Barnsley,46,26,8,12,80,47,33,86,0
+9605,S-2022-3,2022,3,League One,None,5,T-004,Bolton Wanderers,46,23,12,11,62,36,26,81,0
+9606,S-2022-3,2022,3,League One,None,6,T-117,Peterborough United,46,24,5,17,75,54,21,77,0
+9607,S-2022-3,2022,3,League One,None,7,T-006,Derby County,46,21,13,12,67,46,21,76,0
+9608,S-2022-3,2022,3,League One,None,8,T-078,Portsmouth,46,17,19,10,61,50,11,70,0
+9609,S-2022-3,2022,3,League One,None,9,T-126,Wycombe Wanderers,46,20,9,17,59,51,8,69,0
+9610,S-2022-3,2022,3,League One,None,10,T-090,Charlton Athletic,46,16,14,16,70,66,4,62,0
+9611,S-2022-3,2022,3,League One,None,11,T-020,Lincoln City,46,14,20,12,47,47,0,62,0
+9612,S-2022-3,2022,3,League One,None,12,T-115,Shrewsbury Town,46,17,8,21,52,61,-9,59,0
+9613,S-2022-3,2022,3,League One,None,13,T-140,Fleetwood Town,46,14,16,16,53,51,2,58,0
+9614,S-2022-3,2022,3,League One,None,14,T-069,Exeter City,46,15,11,20,64,68,-4,56,0
+9615,S-2022-3,2022,3,League One,None,15,T-137,Burton Albion,46,15,11,20,57,79,-22,56,0
+9616,S-2022-3,2022,3,League One,None,16,T-128,Cheltenham Town,46,14,12,20,45,61,-16,54,0
+9617,S-2022-3,2022,3,League One,None,17,T-066,Bristol Rovers,46,14,11,21,58,73,-15,53,0
+9618,S-2022-3,2022,3,League One,None,18,T-025,Port Vale,46,13,10,23,48,71,-23,49,0
+9619,S-2022-3,2022,3,League One,None,19,T-118,Oxford United,46,11,14,21,49,56,-7,47,0
+9620,S-2022-3,2022,3,League One,None,20,T-119,Cambridge United,46,13,7,26,41,68,-27,46,0
+9621,S-2022-3,2022,3,League One,None,21,T-133,Milton Keynes Dons,46,11,12,23,44,66,-22,45,0
+9622,S-2022-3,2022,3,League One,None,22,T-135,Morecambe,46,10,14,22,47,78,-31,44,0
+9623,S-2022-3,2022,3,League One,None,23,T-087,Accrington Stanley,46,11,11,24,40,77,-37,44,0
+9624,S-2022-3,2022,3,League One,None,24,T-141,Forest Green Rovers,46,6,9,31,31,89,-58,27,0
+9625,S-2022-4,2022,4,League Two,None,1,T-054,Leyton Orient,46,26,13,7,61,34,27,91,0
+9626,S-2022-4,2022,4,League Two,None,2,T-138,Stevenage,46,24,13,9,61,39,22,85,0
+9627,S-2022-4,2022,4,League Two,None,3,T-075,Northampton Town,46,23,14,9,62,42,20,83,0
+9628,S-2022-4,2022,4,League Two,None,4,T-046,Stockport County,46,22,13,11,65,37,28,79,0
+9629,S-2022-4,2022,4,League Two,None,5,T-106,Carlisle United,46,20,16,10,66,43,23,76,0
+9630,S-2022-4,2022,4,League Two,None,6,T-050,Bradford City,46,20,16,10,61,43,18,76,0
+9631,S-2022-4,2022,4,League Two,None,7,T-142,Salford City,46,22,9,15,72,54,18,75,0
+9632,S-2022-4,2022,4,League Two,None,8,T-110,Mansfield Town,46,21,12,13,72,55,17,75,0
+9633,S-2022-4,2022,4,League Two,None,9,T-089,Barrow,46,18,8,20,47,53,-6,62,0
+9634,S-2022-4,2022,4,League Two,None,10,T-084,Swindon Town,46,16,13,17,61,55,6,61,0
+9635,S-2022-4,2022,4,League Two,None,11,T-019,Grimsby Town,46,16,13,17,49,56,-7,61,0
+9636,S-2022-4,2022,4,League Two,None,12,T-099,Tranmere Rovers,46,15,13,18,45,48,-3,58,0
+9637,S-2022-4,2022,4,League Two,None,13,T-018,Crewe Alexandra,46,14,16,16,48,60,-12,58,0
+9638,S-2022-4,2022,4,League Two,None,14,T-144,Sutton United,46,15,13,18,46,58,-12,58,0
+9639,S-2022-4,2022,4,League Two,None,15,T-074,Newport County,46,14,15,17,53,56,-3,57,0
+9640,S-2022-4,2022,4,League Two,None,16,T-028,Walsall,46,12,19,15,46,49,-3,55,0
+9641,S-2022-4,2022,4,League Two,None,17,T-070,Gillingham,46,14,13,19,36,49,-13,55,0
+9642,S-2022-4,2022,4,League Two,None,18,T-049,Doncaster Rovers,46,16,7,23,46,65,-19,55,0
+9643,S-2022-4,2022,4,League Two,None,19,T-143,Harrogate Town,46,12,16,18,59,68,-9,52,0
+9644,S-2022-4,2022,4,League Two,None,20,T-113,Colchester United,46,12,13,21,44,51,-7,49,0
+9645,S-2022-4,2022,4,League Two,None,21,T-121,Wimbledon,46,11,15,20,48,60,-12,48,0
+9646,S-2022-4,2022,4,League Two,None,22,T-139,Crawley Town,46,11,13,22,48,71,-23,46,0
+9647,S-2022-4,2022,4,League Two,None,23,T-094,Hartlepool United,46,9,16,21,52,78,-26,43,0
+9648,S-2022-4,2022,4,League Two,None,24,T-096,Rochdale,46,9,11,26,46,70,-24,38,0
+9649,S-2023-1,2023,1,Premier League,None,1,T-021,Manchester City,38,28,7,3,96,34,62,91,0
+9650,S-2023-1,2023,1,Premier League,None,2,T-029,Arsenal,38,28,5,5,91,29,62,89,0
+9651,S-2023-1,2023,1,Premier League,None,3,T-030,Liverpool,38,24,10,4,86,41,45,82,0
+9652,S-2023-1,2023,1,Premier League,None,4,T-002,Aston Villa,38,20,8,10,76,61,15,68,0
+9653,S-2023-1,2023,1,Premier League,None,5,T-058,Tottenham Hotspur,38,20,6,12,74,61,13,66,0
+9654,S-2023-1,2023,1,Premier League,None,6,T-051,Chelsea,38,18,9,11,77,63,14,63,0
+9655,S-2023-1,2023,1,Premier League,None,7,T-032,Newcastle United,38,18,6,14,85,62,23,60,0
+9656,S-2023-1,2023,1,Premier League,None,8,T-022,Manchester United,38,18,6,14,57,58,-1,60,0
+9657,S-2023-1,2023,1,Premier League,None,9,T-063,West Ham United,38,14,10,14,60,74,-14,52,0
+9658,S-2023-1,2023,1,Premier League,None,10,T-068,Crystal Palace,38,13,10,15,57,58,-1,49,0
+9659,S-2023-1,2023,1,Premier League,None,11,T-065,Brighton & Hove Albion,38,12,12,14,55,62,-7,48,0
+9660,S-2023-1,2023,1,Premier League,None,12,T-102,Bournemouth,38,13,9,16,54,67,-13,48,0
+9661,S-2023-1,2023,1,Premier League,None,13,T-055,Fulham,38,13,8,17,55,61,-6,47,0
+9662,S-2023-1,2023,1,Premier League,None,14,T-012,Wolverhampton Wanderers,38,13,7,18,50,65,-15,46,0
+9663,S-2023-1,2023,1,Premier League,None,15,T-007,Everton,38,13,9,16,40,51,-11,40,-8
+9664,S-2023-1,2023,1,Premier League,None,16,T-064,Brentford,38,10,9,19,56,65,-9,39,0
+9665,S-2023-1,2023,1,Premier League,None,17,T-024,Nottingham Forest,38,9,9,20,49,67,-18,32,-4
+9666,S-2023-1,2023,1,Premier League,None,18,T-040,Luton Town,38,6,8,24,52,85,-33,26,0
+9667,S-2023-1,2023,1,Premier League,None,19,T-005,Burnley,38,5,9,24,41,78,-37,24,0
+9668,S-2023-1,2023,1,Premier League,None,20,T-026,Sheffield United,38,3,7,28,35,104,-69,16,0
+9669,S-2023-2,2023,2,Championship,None,1,T-036,Leicester City,46,31,4,11,89,41,48,97,0
+9670,S-2023-2,2023,2,Championship,None,2,T-112,Ipswich Town,46,28,12,6,92,57,35,96,0
+9671,S-2023-2,2023,2,Championship,None,3,T-071,Leeds United,46,27,9,10,81,43,38,90,0
+9672,S-2023-2,2023,2,Championship,None,4,T-081,Southampton,46,26,9,11,87,63,24,87,0
+9673,S-2023-2,2023,2,Championship,None,5,T-011,West Bromwich Albion,46,21,12,13,70,47,23,75,0
+9674,S-2023-2,2023,2,Championship,None,6,T-076,Norwich City,46,21,10,15,79,64,15,73,0
+9675,S-2023-2,2023,2,Championship,None,7,T-052,Hull City,46,19,13,14,68,60,8,70,0
+9676,S-2023-2,2023,2,Championship,None,8,T-045,Middlesbrough,46,20,9,17,71,62,9,69,0
+9677,S-2023-2,2023,2,Championship,None,9,T-060,Coventry City,46,17,13,16,70,59,11,64,0
+9678,S-2023-2,2023,2,Championship,None,10,T-009,Preston North End,46,18,9,19,56,67,-11,63,0
+9679,S-2023-2,2023,2,Championship,None,11,T-047,Bristol City,46,17,11,18,53,51,2,62,0
+9680,S-2023-2,2023,2,Championship,None,12,T-067,Cardiff City,46,19,5,22,53,70,-17,62,0
+9681,S-2023-2,2023,2,Championship,None,13,T-073,Millwall,46,16,11,19,45,55,-10,59,0
+9682,S-2023-2,2023,2,Championship,None,14,T-083,Swansea City,46,15,12,19,59,65,-6,57,0
+9683,S-2023-2,2023,2,Championship,None,15,T-085,Watford,46,13,17,16,61,61,0,56,0
+9684,S-2023-2,2023,2,Championship,None,16,T-013,Sunderland,46,16,8,22,52,54,-2,56,0
+9685,S-2023-2,2023,2,Championship,None,17,T-010,Stoke City,46,15,11,20,49,60,-11,56,0
+9686,S-2023-2,2023,2,Championship,None,18,T-079,Queens Park Rangers,46,15,11,20,47,58,-11,56,0
+9687,S-2023-2,2023,2,Championship,None,19,T-003,Blackburn Rovers,46,14,11,21,60,74,-14,53,0
+9688,S-2023-2,2023,2,Championship,None,20,T-027,Sheffield Wednesday,46,15,8,23,44,68,-24,53,0
+9689,S-2023-2,2023,2,Championship,None,21,T-077,Plymouth Argyle,46,13,12,21,59,70,-11,51,0
+9690,S-2023-2,2023,2,Championship,None,22,T-015,Birmingham City,46,13,11,22,50,65,-15,50,0
+9691,S-2023-2,2023,2,Championship,None,23,T-059,Huddersfield Town,46,9,18,19,48,77,-29,45,0
+9692,S-2023-2,2023,2,Championship,None,24,T-104,Rotherham United,46,5,12,29,37,89,-52,27,0
+9693,S-2023-3,2023,3,League One,None,1,T-078,Portsmouth,46,28,13,5,78,41,37,97,0
+9694,S-2023-3,2023,3,League One,None,2,T-006,Derby County,46,28,8,10,78,37,41,92,0
+9695,S-2023-3,2023,3,League One,None,3,T-004,Bolton Wanderers,46,25,12,9,86,51,35,87,0
+9696,S-2023-3,2023,3,League One,None,4,T-117,Peterborough United,46,25,9,12,89,61,28,84,0
+9697,S-2023-3,2023,3,League One,None,5,T-118,Oxford United,46,22,11,13,79,56,23,77,0
+9698,S-2023-3,2023,3,League One,None,6,T-041,Barnsley,46,21,13,12,82,64,18,76,0
+9699,S-2023-3,2023,3,League One,None,7,T-020,Lincoln City,46,20,14,12,65,40,25,74,0
+9700,S-2023-3,2023,3,League One,None,8,T-038,Blackpool,46,21,10,15,65,48,17,73,0
+9701,S-2023-3,2023,3,League One,None,9,T-138,Stevenage,46,19,14,13,57,46,11,71,0
+9702,S-2023-3,2023,3,League One,None,10,T-126,Wycombe Wanderers,46,17,14,15,60,55,5,65,0
+9703,S-2023-3,2023,3,League One,None,11,T-054,Leyton Orient,46,18,11,17,53,55,-2,65,0
+9704,S-2023-3,2023,3,League One,None,12,T-122,Wigan Athletic,46,20,10,16,63,56,7,62,-8
+9705,S-2023-3,2023,3,League One,None,13,T-069,Exeter City,46,17,10,19,46,61,-15,61,0
+9706,S-2023-3,2023,3,League One,None,14,T-075,Northampton Town,46,17,9,20,57,66,-9,60,0
+9707,S-2023-3,2023,3,League One,None,15,T-066,Bristol Rovers,46,16,9,21,52,68,-16,57,0
+9708,S-2023-3,2023,3,League One,None,16,T-090,Charlton Athletic,46,11,20,15,64,65,-1,53,0
+9709,S-2023-3,2023,3,League One,None,17,T-080,Reading,46,16,11,19,68,70,-2,53,-8
+9710,S-2023-3,2023,3,League One,None,18,T-119,Cambridge United,46,12,12,22,39,61,-22,48,0
+9711,S-2023-3,2023,3,League One,None,19,T-115,Shrewsbury Town,46,13,9,24,35,67,-32,48,0
+9712,S-2023-3,2023,3,League One,None,20,T-137,Burton Albion,46,12,10,24,39,67,-28,46,0
+9713,S-2023-3,2023,3,League One,None,21,T-128,Cheltenham Town,46,12,8,26,41,65,-24,44,0
+9714,S-2023-3,2023,3,League One,None,22,T-140,Fleetwood Town,46,10,13,23,49,72,-23,43,0
+9715,S-2023-3,2023,3,League One,None,23,T-025,Port Vale,46,10,11,25,41,74,-33,41,0
+9716,S-2023-3,2023,3,League One,None,24,T-106,Carlisle United,46,7,9,30,41,81,-40,30,0
+9717,S-2023-4,2023,4,League Two,None,1,T-046,Stockport County,46,27,11,8,96,48,48,92,0
+9718,S-2023-4,2023,4,League Two,None,2,T-101,Wrexham,46,26,10,10,89,52,37,88,0
+9719,S-2023-4,2023,4,League Two,None,3,T-110,Mansfield Town,46,24,14,8,90,47,43,86,0
+9720,S-2023-4,2023,4,League Two,None,4,T-133,Milton Keynes Dons,46,23,9,14,83,68,15,78,0
+9721,S-2023-4,2023,4,League Two,None,5,T-049,Doncaster Rovers,46,21,8,17,73,68,5,71,0
+9722,S-2023-4,2023,4,League Two,None,6,T-018,Crewe Alexandra,46,19,14,13,69,65,4,71,0
+9723,S-2023-4,2023,4,League Two,None,7,T-139,Crawley Town,46,21,7,18,73,67,6,70,0
+9724,S-2023-4,2023,4,League Two,None,8,T-089,Barrow,46,18,15,13,62,56,6,69,0
+9725,S-2023-4,2023,4,League Two,None,9,T-050,Bradford City,46,19,12,15,61,59,2,69,0
+9726,S-2023-4,2023,4,League Two,None,10,T-121,Wimbledon,46,17,14,15,64,51,13,65,0
+9727,S-2023-4,2023,4,League Two,None,11,T-028,Walsall,46,18,11,17,69,73,-4,65,0
+9728,S-2023-4,2023,4,League Two,None,12,T-070,Gillingham,46,18,10,18,46,57,-11,64,0
+9729,S-2023-4,2023,4,League Two,None,13,T-143,Harrogate Town,46,17,12,17,60,69,-9,63,0
+9730,S-2023-4,2023,4,League Two,None,14,T-008,Notts County,46,18,7,21,89,86,3,61,0
+9731,S-2023-4,2023,4,League Two,None,15,T-135,Morecambe,46,17,10,19,67,81,-14,58,-3
+9732,S-2023-4,2023,4,League Two,None,16,T-099,Tranmere Rovers,46,17,6,23,67,70,-3,57,0
+9733,S-2023-4,2023,4,League Two,None,17,T-087,Accrington Stanley,46,16,9,21,63,71,-8,57,0
+9734,S-2023-4,2023,4,League Two,None,18,T-074,Newport County,46,16,7,23,62,76,-14,55,0
+9735,S-2023-4,2023,4,League Two,None,19,T-084,Swindon Town,46,14,12,20,77,83,-6,54,0
+9736,S-2023-4,2023,4,League Two,None,20,T-142,Salford City,46,13,12,21,66,82,-16,51,0
+9737,S-2023-4,2023,4,League Two,None,21,T-019,Grimsby Town,46,11,16,19,57,74,-17,49,0
+9738,S-2023-4,2023,4,League Two,None,22,T-113,Colchester United,46,11,12,23,59,80,-21,45,0
+9739,S-2023-4,2023,4,League Two,None,23,T-144,Sutton United,46,9,15,22,59,84,-25,42,0
+9740,S-2023-4,2023,4,League Two,None,24,T-141,Forest Green Rovers,46,11,9,26,44,78,-34,42,0
