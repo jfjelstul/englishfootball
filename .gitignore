@@ -10,3 +10,5 @@ data-raw/
 *.out
 *.synctex.gz
 *.toc
+*.tex
+codebook/code
