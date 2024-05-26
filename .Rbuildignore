@@ -4,3 +4,4 @@
 ^data-csv/
 ^data-sqlite/
 ^codebook/
+^.Rhistory
