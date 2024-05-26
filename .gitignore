@@ -12,3 +12,6 @@ data-raw/
 *.toc
 *.tex
 codebook/code/
+*.fdb_latexmk
+*.fls
+*.xdv
