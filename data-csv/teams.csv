@@ -6,7 +6,7 @@ key_id,team_id,team_name,former_team_names,current,former,defunct,first_appearan
 5,T-005,Burnley,None,1,0,0,1888
 6,T-006,Derby County,None,1,0,0,1888
 7,T-007,Everton,None,1,0,0,1888
-8,T-008,Notts County,None,0,1,0,1888
+8,T-008,Notts County,None,1,0,0,1888
 9,T-009,Preston North End,None,1,0,0,1888
 10,T-010,Stoke City,Stoke,1,0,0,1888
 11,T-011,West Bromwich Albion,None,1,0,0,1888
@@ -92,14 +92,14 @@ key_id,team_id,team_name,former_team_names,current,former,defunct,first_appearan
 91,T-091,Darlington,None,0,1,0,1921
 92,T-092,Durham City,None,0,0,1,1921
 93,T-093,Halifax Town,None,0,0,1,1921
-94,T-094,Hartlepool United,"Hartlepools United, Hartlepool",1,0,0,1921
+94,T-094,Hartlepool United,"Hartlepools United, Hartlepool",0,1,0,1921
 95,T-095,Nelson,None,0,1,0,1921
-96,T-096,Rochdale,None,1,0,0,1921
+96,T-096,Rochdale,None,0,1,0,1921
 97,T-097,Southport,None,0,1,0,1921
 98,T-098,Stalybridge Celtic,None,0,1,0,1921
 99,T-099,Tranmere Rovers,None,1,0,0,1921
 100,T-100,Wigan Borough,None,0,0,1,1921
-101,T-101,Wrexham,None,0,1,0,1921
+101,T-101,Wrexham,None,1,0,0,1921
 102,T-102,Bournemouth,Bournemouth & Boscombe Athletic,1,0,0,1923
 103,T-103,New Brighton,None,0,0,1,1923
 104,T-104,Rotherham United,None,1,0,0,1925
@@ -119,7 +119,7 @@ key_id,team_id,team_name,former_team_names,current,former,defunct,first_appearan
 118,T-118,Oxford United,None,1,0,0,1962
 119,T-119,Cambridge United,None,1,0,0,1970
 120,T-120,Hereford United,None,0,0,1,1972
-121,T-121,Wimbledon,None,0,0,1,1977
+121,T-121,Wimbledon,None,1,0,0,1977
 122,T-122,Wigan Athletic,None,1,0,0,1978
 123,T-123,Scarborough,None,0,0,1,1987
 124,T-124,Maidstone United,None,0,0,1,1989
