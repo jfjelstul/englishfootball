@@ -11,4 +11,4 @@ data-raw/
 *.synctex.gz
 *.toc
 *.tex
-codebook/code
+codebook/code/
